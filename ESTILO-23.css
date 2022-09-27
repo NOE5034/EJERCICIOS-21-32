@@ -1,0 +1,26 @@
+﻿/* Estilo para todo el documento */
+body{
+    font-size:13px; 
+    font-family:Tahoma, Geneva, Verdana, sans-serif; 
+    color:#FFF; 
+    background-color:#fff; 
+}
+
+/* Estilo para la alineación de los textos */
+p#izquierda{
+    float:left;
+}
+p#derecha{
+    float:left;
+}
+
+a{
+    color:yellow; 
+}
+
+footer{
+    height:40px; 
+    margin:10px;
+    padding:10px;
+    background-color:#000;
+}
